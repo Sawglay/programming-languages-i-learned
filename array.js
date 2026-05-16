@@ -28,3 +28,5 @@ console.log(arr);
 console.log(arr[0][2]);
 arr[0][3] = "d"
 console.log(arr);
+
+let NNA = [[0,1,2],['a','x','d'],[12]]
