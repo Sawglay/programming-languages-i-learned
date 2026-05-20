@@ -72,3 +72,10 @@ function add([a,b]){
 
 add([1,2]);
 
+
+
+//Method
+let animals = ['dog', 'cat', 'ant']
+animals.push('birds')
+console.log(animals);
+
